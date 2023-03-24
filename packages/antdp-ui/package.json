@@ -30,7 +30,7 @@
     "@ant-design/icons": "4.7.0",
     "@antdp/authorized": "1.8.24",
     "@babel/runtime": "~7.17.9",
-    "classnames": "2.3.1"
+    "classnames": "2.3.2"
   },
   "devDependencies": {
     "@types/classnames": "2.3.1",
